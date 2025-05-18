@@ -1,5 +1,7 @@
 # Quiz App 🚀
 
+**Visualiza la app aquí 👉 [Ir a la Demo en GitHub Pages](https://franklinrony86.github.io/quiz-app/)**
+
 ## 📋 Objetivo
 
 El objetivo de este proyecto es aprender a crear una página web dinámica utilizando el **Document Object Model (DOM)**, permitiendo la manipulación de elementos HTML a través de JavaScript.
@@ -66,7 +68,7 @@ Además, la aplicación es **responsive**, adaptándose automáticamente a difer
 
 ---
 
-## 👥 Integrantes (6)
+## 👥 Integrantes (5)
 
 - Franklin Rony Cortez Barrera (k20250003)
 - Nombre 2
