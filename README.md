@@ -71,7 +71,7 @@ Además, la aplicación es **responsive**, adaptándose automáticamente a difer
 ## 👥 Integrantes (5)
 
 - Franklin Rony Cortez Barrera (k20250003)
-- Nombre 2
+- Katherinne Julissa Arévalo Sierra (k20250017)
 - Nombre 3
 - Nombre 4
 - Nombre 5
