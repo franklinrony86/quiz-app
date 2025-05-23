@@ -74,8 +74,7 @@ Además, la aplicación es **responsive**, adaptándose automáticamente a difer
 - Katherinne Julissa Arévalo Sierra (k20250017)
 - Erick Gabriel Girón Alvarenga 
 - Ernesto Enrique Molina López
-- Nombre 5
-- Nombre 6
+- Rodrigo Alexis Mejía Rivas
 
 ---
 
