@@ -64,15 +64,15 @@ function inicializarSeleccionCategoria() {
   });
 }
 
-// Actualiza la interfaz del quiz según el estado actual
+// Actualiza la interfaz del quiz según el estado actual.
 function actualizarInterfazQuiz() {
   const estadoActual = administradorQuiz.obtenerEstadoActual();
   
-  // Actualiza información de categoría
+  // Actualiza información de categoría.
   nombreCategoria.textContent = estadoActual.nombreCategoria;
   iconoCategoria.className = `icono-categoria ${estadoActual.claseCategoria}`;
   
-  // Actualiza progreso
+  // Actualiza progreso.
   const porcentajeProgreso = (estadoActual.indicePreguntaActual / estadoActual.totalPreguntas) * 100;
   barraProgreso.style.width = `${porcentajeProgreso}%`;
   preguntaActual.textContent = estadoActual.indicePreguntaActual + 1;
